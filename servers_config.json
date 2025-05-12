@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fibonacci": {
+      "command": "C:\\Development\\Projekte\\Python\\MCP-Article\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Development\\Projekte\\Python\\MCP-Article\\server_quickstart.py"]
+    }
+  }
+}
